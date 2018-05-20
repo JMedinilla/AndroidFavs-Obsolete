@@ -69,7 +69,7 @@ Repositorio | Descripción | Captura
 ### Animaciones
 Repositorio | Descripción | Captura
 -|-|-
-[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | Componente de animación indeterminada | <img src="images/AVLoadingIndicatorView.png" width=70%>
+[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | Componente de animación indefinidas | <img src="images/AVLoadingIndicatorView.png" width=70%>
 [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | Animaciones para componentes | <img src="images/AndroidViewAnimations.png" width=70%>
 
 ### Navegación
@@ -114,4 +114,3 @@ Repositorio | Descripción | Captura
 [material-intro-screen](https://github.com/TangoAgency/material-intro-screen) | Intro de aplicación Material | <img src="images/material-intro-screen.png" width=50%>
 [MaterialAbout](https://github.com/jrvansuita/MaterialAbout) | Acerca de, completo | <img src="images/MaterialAbout.png" width=60%>
 [material-about-library](https://github.com/daniel-stoneuk/material-about-library) | Acerca de, simple | <img src="images/material-about-library.png" width=50%>
-[MaterialStepperView](https://github.com/fython/MaterialStepperView) | Pasos a completar | <img src="images/MaterialStepperView.png" width=50%>
